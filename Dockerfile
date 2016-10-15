@@ -16,6 +16,9 @@ RUN apt-get update -qqy && \
     php-curl \
     php-dev \
     php-fpm \
+    php-mbstring \
+    php-dom \
+    php-xml \
     php-json \
     php-gd \
     php-mysql \
