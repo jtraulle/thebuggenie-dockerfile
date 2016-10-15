@@ -23,6 +23,7 @@ RUN apt-get update -qqy && \
     php-gd \
     php-mysql \
     php-pdo \
+    php-zip \
     php-opcache \
     pkg-config
 
